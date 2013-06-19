@@ -1,0 +1,4 @@
+rvm use 1.9.2-p290@gdr
+alias backup='fi4softcmd pasarela gitonbackup testgit'
+alias backup='fi4softcmd pasarela gitonmaster testgit'
+
