@@ -1,4 +1,6 @@
 Testgit::Application.routes.draw do
+  resources :customers
+
   resources :tables
   resources :cars
   resources :items
