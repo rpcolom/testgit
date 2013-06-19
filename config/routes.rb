@@ -4,6 +4,8 @@ Testgit::Application.routes.draw do
 
 
 
+  resources :pages
+
   resources :records
   resources :customers
   resources :tables
